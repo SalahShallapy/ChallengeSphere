@@ -44,7 +44,6 @@ ChallengeSphere is a user-friendly platform designed to help you set, track, and
 - **Dynamic Filtering**: View challenges categorized by status (Active, Completed, Failed).
 - **Progress Tracking**: Keep track of deadlines and challenge statuses at a glance.
 - **Interactive Animations**: Enjoy fluid transitions and animations powered by Framer Motion.
-- **Responsive Design**: Optimized for various devices, ensuring a seamless experience.
 
 ## Usage
 
