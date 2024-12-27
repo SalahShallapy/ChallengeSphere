@@ -120,7 +120,7 @@ To get started with the project locally:
 
 ## Side Note
 
-- Explore the [Live Demo](https://your-deployed-app-url.firebaseapp.com) to fully experience the interactive animations and user-friendly design ChallengeSphere offers.
+- Explore the [Live Demo](https://challengesphere-a9609.web.app/) to fully experience the interactive animations and user-friendly design ChallengeSphere offers.
 
 ## Contributing
 
